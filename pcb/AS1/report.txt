@@ -1,0 +1,7 @@
+Info: Output directory 'C:\Users\prana\Desktop\.git\pcb\AS1' created.
+Front (top side) placement file: 'C:\Users\prana\Desktop\.git\pcb\AS1\pcb-top.pos'.
+Info: Component count: 5.
+Back (bottom side) placement file: 'C:\Users\prana\Desktop\.git\pcb\AS1\pcb-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 5.
+Info: Done.

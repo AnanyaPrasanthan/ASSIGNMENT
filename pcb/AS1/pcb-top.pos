@@ -1,0 +1,11 @@
+### Footprint positions - created on 2025-04-07T23:02:46+0530 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                                   PosX       PosY       Rot  Side
+M2        Motor_DC        TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal   119.2900  -103.7100    0.0000  top
+Q2        IRF540N         TO-220-3_Vertical                                     131.1800  -102.2100    0.0000  top
+R1        R               R_0201_0603Metric                                     140.7200  -107.4800    0.0000  top
+U1        ESP32-WROOM-32  ESP32-WROOM-32                                        141.0000   -86.1150    0.0000  top
+U2        AMS1117         SOT-223-3_TabPin2                                     144.4200  -102.4850    0.0000  top
+## End
